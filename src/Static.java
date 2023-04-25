@@ -13,6 +13,6 @@ class Test{
 
         Static s = new Static();
         System.out.println("4*8="+s.multiply(4 ,8));
-        System.out.println("4+8 ="+Static.sum(4,8));
+        System.out.println("4+8 ="+Static.sum(5,18));
     }
 }
